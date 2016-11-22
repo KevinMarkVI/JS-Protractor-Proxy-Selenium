@@ -1,7 +1,7 @@
 
 language: node_js
 node_js:
-- '7.0'
+- '5.9.0'
 env:
   global:
   - SAUCE_USERNAME=KevinMarkVI
